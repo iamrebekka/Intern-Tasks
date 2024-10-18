@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file with **Node.js** included to reflect its importance in the development process.
-
----
-
 # Web Task: Creating a ReactJS Website  
 
 ![React](https://img.shields.io/badge/React-v18.2.0-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-informational) ![Node.js](https://img.shields.io/badge/Node.js-v18.0.0-green)  
