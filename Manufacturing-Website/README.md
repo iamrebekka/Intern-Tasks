@@ -8,17 +8,6 @@ Here’s the updated `README.md` file with **Node.js** included to reflect its i
 
 This project is a **ReactJS website** built with HTML and CSS, aiming to create an interactive and responsive frontend. It leverages **Node.js** during development for dependency management and running the local development server. Developed using **Visual Studio Code**, this project demonstrates key concepts of React along with modern CSS for styling.  
 
----
-
-## 📑 Table of Contents  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)  
 
 ---
 
@@ -50,7 +39,7 @@ Make sure you have **Node.js** installed on your machine. You can download it fr
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/iamrebekka/Intern-Tasks.git
-   cd your-repo-name
+   cd Intern-Tasks/Manufacturing-Website
    ```
 
 2. **Install dependencies:**  
